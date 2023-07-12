@@ -1,8 +1,8 @@
-# simple contract with 2-3 functions integrating with front-end
+# Simple contract with 2-3 functions integrating with front-end
 
 This straightforward front-end application communicates with a smart contract that has been set up on the blockchain. You can access the most recent value and increase a coin value in the contract using the programme..
 
-## description
+## Description
 
 The Front-End of a Simple Contract A smart contract that has been deployed on the blockchain can be interacted with using application, a simple web application. To facilitate smooth communication with the contract, the programme establishes a connection with the well-known Ethereum wallet MetaMask.
 
@@ -12,8 +12,8 @@ The application's primary features are as follows:
 
 2. Value of Cryptocurrency: Users can access the most recent price of the cryptocurrency that is stored in the contract and have it displayed on a website.
 
-## grtting started
-### installing
+## Getting started
+### Installing
 
 1.Clone the repository:
 git clone https://github.com/your-username/your-repo.git
@@ -71,11 +71,11 @@ npm i (please must install node js for running this command)
 your Files Should be update
 Address must be same as deplyed contracts
 ```
-## result
+## Result
 ![result](https://github.com/Satya-1107/smart-contract/assets/136918622/0afbd299-0fd9-4330-a894-0c66e4c4de7f)
 
-## author
-satya prakash
+## Author
+Satya Prakash
 
 
 
